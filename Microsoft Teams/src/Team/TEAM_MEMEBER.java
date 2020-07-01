@@ -1,0 +1,35 @@
+package Team;
+
+public class TEAM_MEMEBER {
+
+	TEAM TEAM_ID;
+	USER USER_ID;
+	int TEAM_MEMEBER_ROLE_ID;
+	String TEAM_MEMBET_REQUEST_ACCEPTED;
+	public TEAM getTEAM_ID() {
+		return TEAM_ID;
+	}
+	public void setTEAM_ID(TEAM tEAM_ID) {
+		TEAM_ID = tEAM_ID;
+	}
+	public USER getUSER_ID() {
+		return USER_ID;
+	}
+	public void setUSER_ID(USER uSER_ID) {
+		USER_ID = uSER_ID;
+	}
+	public int getTEAM_MEMEBER_ROLE_ID() {
+		return TEAM_MEMEBER_ROLE_ID;
+	}
+	public void setTEAM_MEMEBER_ROLE_ID(int tEAM_MEMEBER_ROLE_ID) {
+		TEAM_MEMEBER_ROLE_ID = tEAM_MEMEBER_ROLE_ID;
+	}
+	public String getTEAM_MEMBET_REQUEST_ACCEPTED() {
+		return TEAM_MEMBET_REQUEST_ACCEPTED;
+	}
+	public void setTEAM_MEMBET_REQUEST_ACCEPTED(String tEAM_MEMBET_REQUEST_ACCEPTED) {
+		TEAM_MEMBET_REQUEST_ACCEPTED = tEAM_MEMBET_REQUEST_ACCEPTED;
+	}
+	
+	 
+}
