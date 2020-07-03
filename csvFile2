@@ -1,0 +1,4 @@
+1,CS-102,Programming Fumdamental,4,PF,null
+2,CS-103,Object Oriented Programming,4,OOP,1,CS-102,Programming Fumdamental,4,PF,null
+3,CS-104,DataBase,4,DB,2,CS-103,Object Oriented Programming,4,OOP,1,CS-102,Programming Fumdamental,4,PF,null
+4,CS-105,Python,4,PT,3,CS-104,DataBase,4,DB,2,CS-103,Object Oriented Programming,4,OOP,1,CS-102,Programming Fumdamental,4,PF,null

@@ -1,0 +1,9 @@
+1,1,CS-102,Programming Fumdamental,4,PF,null,1,19011519-001,BS,2019,1,Faiqa,Shabbir,Female,Mandi Bahuaddin,A
+2,2,CS-103,Object Oriented Programming,4,OOP,1,CS-102,Programming Fumdamental,4,PF,null,2,19011519-002,BS,2019,2,Marwa,Maqsood,Female,Gujrat,A
+3,3,CS-104,DataBase,4,DB,2,CS-103,Object Oriented Programming,4,OOP,1,CS-102,Programming Fumdamental,4,PF,null,3,19011519-003,BS,2019,3,Zainab,Bibi,Female,Jalal Pur,A
+4,null,4,19011519-004,BS,2019,4,Shifa,Waraich,Female,Gujrat,A
+5,null,5,19011519-006,BS,2019,5,Zainab,Ashfaq,Female,Gujrat,A
+6,null,6,19011519-007,BS,2019,6,Shiza,Waheed,Female,Sialkot,A
+7,null,7,19011519-009,BS,2019,7,Hafa,Imran,Female,Jehlum,A
+8,null,8,19011519-010,BS,2019,8,Maryam,Maqbool,Female,Jehlum,A
+[1,1,CS-102,Programming Fumdamental,4,PF,null,1,19011519-001,BS,2019,1,Faiqa,Shabbir,Female,Mandi Bahuaddin,A, 2,2,CS-103,Object Oriented Programming,4,OOP,1,CS-102,Programming Fumdamental,4,PF,null,2,19011519-002,BS,2019,2,Marwa,Maqsood,Female,Gujrat,A, 3,3,CS-104,DataBase,4,DB,2,CS-103,Object Oriented Programming,4,OOP,1,CS-102,Programming Fumdamental,4,PF,null,3,19011519-003,BS,2019,3,Zainab,Bibi,Female,Jalal Pur,A, 4,null,4,19011519-004,BS,2019,4,Shifa,Waraich,Female,Gujrat,A, 5,null,5,19011519-006,BS,2019,5,Zainab,Ashfaq,Female,Gujrat,A, 6,null,6,19011519-007,BS,2019,6,Shiza,Waheed,Female,Sialkot,A, 7,null,7,19011519-009,BS,2019,7,Hafa,Imran,Female,Jehlum,A, 8,null,8,19011519-010,BS,2019,8,Maryam,Maqbool,Female,Jehlum,A]

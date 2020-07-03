@@ -1,0 +1,8 @@
+1,1,Monday,8:45,10:15
+2,2,Tuesday,10:15,11:45
+3,3,Wednesday,11:45,13:15
+4,4,Thursday,13:15,14:45
+5,5,Friday,14:45,16:15
+6,6,Saturday,Holiday,Holiday
+7,7,Sunday,Holiday,Holiday
+[1,1,Monday,8:45,10:15, 2,2,Tuesday,10:15,11:45, 3,3,Wednesday,11:45,13:15, 4,4,Thursday,13:15,14:45, 5,5,Friday,14:45,16:15, 6,6,Saturday,Holiday,Holiday, 7,7,Sunday,Holiday,Holiday]
